@@ -39,6 +39,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## <a name="tools"></a>Tools and session management
 
+- [agent-manager](https://github.com/fractalmind-ai/agent-manager-skill) Run and manage multiple CLI AI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling.
 - [automux](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, useful for tmux based automation
 - [disconnected](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 - [dmux](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
